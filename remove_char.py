@@ -4,4 +4,4 @@ def remove_char(char, string):
     print(final_result)
 
 
-remove_char("omer", "o")
+remove_char("o", "omer")
